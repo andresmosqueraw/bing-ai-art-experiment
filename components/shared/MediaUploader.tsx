@@ -53,7 +53,7 @@ const MediaUploader = ({
 
   return (
     <CldUploadWidget
-      uploadPreset="jsm_imaginify"
+      uploadPreset="bing_ai_art_experiment_cloudinary"
       options={{
         multiple: false,
         resourceType: "image",
